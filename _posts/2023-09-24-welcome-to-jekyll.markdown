@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2023-09-24 15:40:56
