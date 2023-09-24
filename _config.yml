@@ -1,8 +1,12 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-architect
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+# Setup
+name:         Project or Site name (Architect Theme)
+tagline:      A responsive theme for your project on GitHub Pages
+baseurl:      ""
+locale:       "en"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
