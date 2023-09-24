@@ -6,7 +6,7 @@
  *    user zoom.
  */
 
-  @import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap');
 
 html {
   font-family: sans-serif; /* 1 */
@@ -430,9 +430,9 @@ th {
 
 /* LAYOUT STYLES */
 body {
-  font-family:  'Nanum Pen Script', cursive, 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 15px;
-  font-weight: 400;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
   line-height: 1.5;
   color: #666;
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
