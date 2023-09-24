@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2015-11-17 16:16:01 -0600
+date:   2015-11-17 16:16:01
 categories: jekyll update
 ---
 이 포스트는 _posts 폴더에서 찾을 수 있다.
