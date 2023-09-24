@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "new years eve is awesome"
-date:   2015-11-17 16:16:01
+title: new years eve is awesome
+date: 2015-11-17T16:16:01.000Z
 categories: jekyll update
+published: true
 ---
 이 포스트는 _posts 폴더에서 찾을 수 있다.
 
