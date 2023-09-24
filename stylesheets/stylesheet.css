@@ -6,6 +6,8 @@
  *    user zoom.
  */
 
+  @import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+
 html {
   font-family: sans-serif; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
@@ -428,7 +430,7 @@ th {
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family:  'Nanum Pen Script', cursive, 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 1.5;
