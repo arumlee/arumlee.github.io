@@ -2,7 +2,7 @@
 name: arumlee.github.io
 description: arumlee 기술블로그
 tagline: A responsive theme for your project on GitHub Pages
-baseurl: "https://github.com/arumlee/arumlee.github.io/blob/main"
+baseurl: ""
 locale: "ko"
 url: "https://arumlee.github.io"
 
@@ -12,3 +12,7 @@ gems:
 
 #Others
 markdown: kramdown
+
+prose:
+  rooturl: "_posts"
+  siteurl: "https://arumlee.github.io"
