@@ -4,6 +4,7 @@ description: arumlee 기술블로그
 tagline: A responsive theme for your project on GitHub Pages
 baseurl: ""
 locale: "ko"
+url: "https://arumlee.github.io"
 
 # Gems
 gems:
