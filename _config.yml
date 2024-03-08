@@ -16,3 +16,5 @@ markdown: kramdown
 prose:
   rooturl: "_posts"
   siteurl: "https://arumlee.github.io"
+
+category_list: [Algorithm]
