@@ -9,6 +9,7 @@ url: "https://arumlee.github.io"
 # Gems
 gems:
   - jekyll-paginate
+  - jemoji
 
 # Others
 markdown: kramdown
